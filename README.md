@@ -235,5 +235,4 @@
 
 ![image](https://user-images.githubusercontent.com/36668756/71172371-f6d9d380-229a-11ea-8290-0d266aaa32b2.png)
 
-<↑个人信息修改↑>
-
+**<↑个人信息修改↑>**
